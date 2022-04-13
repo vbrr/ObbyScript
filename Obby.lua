@@ -1,4 +1,4 @@
--- Made this script opensource as It's an old ass shitty script I made with someone, I am no longer in contact with this person as we got into a massive argument.
+-- Made this script opensource as It's an old ass shitty script I made with someone, I am no longer in contact with this person, and the script will no longer be getting updated.
 -- So I figured fuck it i'll just make it open source.
 -- Enjoy!
 
